@@ -41,7 +41,7 @@ const AboutMe = {
         <ul key="cool-things-list">
         <li>Lead an NLP FAQ application at BMO</li>
         <li>Published a Paper on Fuzzy Reinforcement Learning for Human decision prediction</li>
-        <li>Wrote an Undergrad paper Helping a robot snake Identify a valve using Image Recognition</li>
+        <li>Wrote an Undergrad paper helping a robot snake Identify a valve using Image Recognition</li>
       </ul>,
       ],
     },
