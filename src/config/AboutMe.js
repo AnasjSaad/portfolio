@@ -35,7 +35,7 @@ const AboutMe = {
       content: [
         "My name is Anas Saad (أنس سعد), I'm a software engineer and I like breaking things.",
         "I do software engineering at BMO. Check out my LinkedIn in the links tab above if you're into that.",
-        "I attended Toronto Metropolitan University and graduated in Sep 2021 where i completed my bachelors in aeropspace engineering and later my masters degree focused reinforcment learning",
+        "I attended Toronto Metropolitan University and graduated in Sep 2021 where i completed my bachelors in aeropspace engineering and later my masters degree focused on reinforcment learning",
         "When I'm not coding, you can find me at the gym, on my desk playing games with the boys or watching shows.",
         "Some cool things I have worked on in the past:",
         <ul key="cool-things-list">
